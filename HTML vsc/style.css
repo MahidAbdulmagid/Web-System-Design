@@ -1,18 +1,20 @@
-.product-title{
-    
-background-color: red;
-    font-size: 48px;
-    color: wheat (245, 233, 179);
+.tt {
+    border: 30px aliceblue solid;
+    width: 500px;
+    padding: 80px;
+}
+
+.date mt {
     text-align: center;
+    color: blue;
 }
 
-.price{
-    font-size: 24px;  
-    color: white;
-    background-color: rgb(237, 20, 61);
+.date {
+    text-align: center;
+    color: black;
 }
 
-.old-price{
-    text-decoration: line-through;
+.quote {
+    border-left: 10px red solid;
+    padding-left: 10px;
 }
-

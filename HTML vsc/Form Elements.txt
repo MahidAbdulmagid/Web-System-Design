@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<br></br>
+
+<h1><b>User Registration</b></h1>
+
+<h2><b>Please complete the following form to register</b></h2>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="style.css">
+
+
+     <title>User Registration</title>
+  
+
+    
+
+    <br></br>
+</head>
+
+<body>
+    <form>
+
+        <label for="u-name">Username</label>
+        <input type="Text"  id="u-name">
+        <br></br>
+
+        <label for="u-name">Emial address</label>
+        <input type="Text"  id="u-name">
+
+        <br></br>
+        <label for="u-name">Password</label>
+        <input type="Text"  id="u-name">
+        <br></br>
+        <label for="u-name">Confirm password</label>
+        <input type="Text"  id="u-name">
+
+        <br></br>
+        <label for="u-name">Phone number</label>
+        <input type="Text"  id="u-name">
+
+        <br></br>
+
+        <label form="message">Your address</label>
+        <textarea id="message" cols="15" rows="3"></textarea>
+        
+        <p><b>Gender:</b></p>
+        <input type="radio" id="Female" name="gender">
+        <label for="u-name">Female</label>
+        <input type="radio" id="Male" name="gender">
+        <label for="u-name">Male</label>
+
+
+        <p><b>Select your profession:</b></p>
+        <input type="radio" id="Enginnering" name="Engineer">
+        <label for="u-name">Engineer</label>
+        <input type="radio" id="Cooking" name="Chef">
+        <label for="u-name">Chef</label>
+        <input type="radio" id="Clothing" name="Designer">
+        <label for="u-name">Designer</label>
+        <input type="radio" id="Clothing" name="Lawyer">
+        <label for="u-name">Lawyer</label>
+        <input type="radio" id="Clothing" name="Teacher">
+        <label for="u-name">Teacher</label>
+        <input type="radio" id="Art" name="Artist">
+        <label for="u-name">Artist</label>
+        <input type="radio" id="Science" name="Scientist">
+        <label for="u-name">Scientist</label>
+        <input type="radio" id="Office" name="Cashier">
+        <label for="u-name">Cashier</label>
+
+        <input type="" id="" name="">
+        <label for=""></label>
+
+        li <div class="student">friend</div>
+        <div class="student">chris</div>
+        <div class="student">martin</div>
+        <div class="student">vivian</div>
+        <div class="student">fiona</div>
+
+        <li class="stident"></li>
+        <li class="stident"></li>
+        <li class="stident"></li>
+        <li class="stident"></li>
+
+
+
+        <p><br>Unknownproffession</b></p>
+        <input type="radio" id="Office" name="SoftwareEnginner">
+        <label for="u-name">SoftwareEnginner</label>
+        <input type="radio" id="Medicine" name="Doctor">
+        <label for="u-name">Engineer</label>
+        <input type="radio" id="Builder" name="Contractor">
+        <label for="u-name">Contractor</label>
+
+
+        <p><br>Things to buy for christmas</br></p>
+        <input type="radio" id="Santaclus" name="Gifts">
+        <label for="u-name">Gifts</label>
+
+
+        <p><br>Classification of school</br></p>
+        <input type="radio" id="BEU" name="Engineer">
+        <label for="u-name">Engineer</label>
+
+
+
+        <p><br>Classes of religion</b></p>
+        <input type="radio" id="Church" name="Christian">
+        <label for="u-name">Christian</label>
+
+        <p><br>names of books</br></p>
+        <Input type=“radio” id=“Bestsellers” Name=“harryPortter”>
+        <label for=“n-name”>harrypotter</label>
+
+
+
+        <H1 style="color: tomato;">Heading of article</H1>
+        <p id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium reprehenderit quod ipsam nam repellendus recusandae, 
+            tempora voluptatum mollitia quidem optio magni aliquam enim nesciunt eligendi sit? Atque enim fugiat deserunt?</p>
+
+
+
+            <h1 style="color: gray;">Time to practice</h1>
+            <p id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium reprehenderit quod ipsam nam repellendus recusandae, 
+                tempora voluptatum mollitia quidem optio magni aliquam enim nesciunt eligendi sit? Atque enim fugiat deserunt?</p>
+       
+
+
+        <H1 style="color: tomato;">Heading of article2</H1>
+        <p id="text: seagreen;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium reprehenderit quod ipsam nam repellendus recusandae, 
+            tempora voluptatum mollitia quidem optio magni aliquam enim nesciunt eligendi sit? Atque enim fugiat deserunt?</p>
+
+        <h1 style="color: aqua;">Small talks</h1>
+        <p id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium reprehenderit quod ipsam nam repellendus recusandae, 
+            tempora voluptatum mollitia quidem optio magni aliquam enim nesciunt eligendi sit? Atque enim fugiat deserunt?</p>
+
+
+
+
+
+
+
+
+
+        <ol>
+
+        <h1><li class="student">Riswan</li></h1>
+        <h1><li class="student">joey</li></h1>
+        <h1><li class="student">fiona</li></h1>
+        <h1><li class="student">michael</li></h1>
+        <h1><li class="student">oshrit</li></h1>
+        <h1><li class="student">anna</li></h1>
+        <h1><li class="student">brady</li></h1>
+        <h1><li class="student">china</li></h1>
+
+        li.student*5
+
+       </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <p>How did you hear about us?
+        <select>
+            <option value="" selected>Select your answer</option>
+            <option value="">Another website</option>
+            <option value="">Magazine ad</option>
+            <option value="">From a friend</option>
+            <option value="">Other</option></p>
+            <br></br>
+        </select>
+        <br></br>
+    <input type="Checkbox" id="">
+    <label for="">Please select this box if you wish to be added to our mailing list.</label>
+    
+    <br><br>
+    <button type="submit">Register now</button>
+    <button>Reset</button>
+
+        
+
+    </table>
+</body>
